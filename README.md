@@ -1,4 +1,4 @@
-# Sans Ölçer 31
+# Sans Ölçer
 
 Şansınız süper gizli bir kod ile ölçer.
 
